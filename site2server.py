@@ -1,6 +1,6 @@
 #! /usr/bin/python
 
-# script: getmapping.py
+# script: site2server.py
 # author: Todd Fields
 # date: 2015-08-21
 # version: 0.1
